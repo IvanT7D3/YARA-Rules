@@ -1,6 +1,8 @@
 # YARA-Rules
 
-Here you can find YARA rules to detect ATM Malware
+Here you can find YARA rules to detect the following ATM malware families:
+
+Alice, DispCashBR, FiXS and GreenDispenser
 
 Hashes can be found here: [ATM CyberCrime Tracker](https://atm.cybercrime-tracker.net/)
 
